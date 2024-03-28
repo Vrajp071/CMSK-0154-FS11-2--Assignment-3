@@ -1,4 +1,6 @@
-﻿public class BaseClass
+using system;
+
+public class BaseClass
 {
     public virtual bool IsValidated()
     {
